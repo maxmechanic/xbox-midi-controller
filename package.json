@@ -1,0 +1,27 @@
+{
+  "name": "xbox-midi-controller",
+  "version": "0.0.0",
+  "description": "xbox-midi-controller ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmechanic/xbox-midi-controller.git"
+  },
+  "keywords": [
+    "midi",
+    "xbox"
+  ],
+  "author": "maxmechanic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxmechanic/xbox-midi-controller/issues"
+  },
+  "homepage": "https://github.com/maxmechanic/xbox-midi-controller",
+  "dependencies": {
+    "midi": "^0.9.0",
+    "xbox-controller": "^0.4.3"
+  }
+}
