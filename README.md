@@ -22,3 +22,6 @@ var controller = new Xbox(channelName, rootNote, steps);
 
 // notice:  Xbox controller connected.
 ```
+
+Scale sequence is A, B, X, Y, left bumper, right bumper, left stick, right stick.
+D-pad left/right changes mode, up/down changes octave.
